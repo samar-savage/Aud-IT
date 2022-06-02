@@ -1,0 +1,1 @@
+{"error":{"code":"-1, Microsoft.SharePoint.Client.InvalidClientQueryException","message":{"lang":"en-US","value":"The expression \"web/getFileByServerRelativePath(DecodedUrl='https:/draexlmaier-my.sharepoint.com/:x:/r/personal/samar_jberi_extern_draexlmaier_com/Documents/Test/test.xlsx\" is not valid."}}}
